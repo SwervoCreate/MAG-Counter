@@ -1,5 +1,5 @@
 
-var url = "http://store.zapier.com/api/records?Customers&secret=cd7a2785-3db3-4711-9b3f-c0bcca85ab28";
+var url = "https://store.zapier.com/api/records?Customers&secret=cd7a2785-3db3-4711-9b3f-c0bcca85ab28";
 
 var xhr = new XMLHttpRequest();
 
